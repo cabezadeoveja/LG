@@ -1,0 +1,40 @@
+body{
+	margin: 0;
+	padding: 0;;
+	height: 100%;
+}
+
+#firstSection{
+	background-image: url(../assets/patron_fondo.jpg);
+	height: 100vh;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+}	
+
+.logotipo{
+	padding-top: 1.5rem;
+}
+
+.title{
+	padding-top: 2.25rem;
+}
+
+.equipment{
+	padding-top: 2rem;
+}
+
+.text-home{
+	padding-top: 0.5rem;
+	line-height: 16px;
+	font-size: 12px;
+	color: #ffffff;
+}
+
+.icons{
+	padding-top: 1rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
